@@ -1,4 +1,4 @@
-### Servus, I'm Alex
+## Servus, I'm Alex
 
 Family doctor by license, generalist by temperament.  
 Some duty, some freestyle, one heartbeat: **fatherhood**.  
