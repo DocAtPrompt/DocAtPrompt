@@ -1,16 +1,16 @@
-## Servus, i'm Alex
+### Servus, I'm Alex
 
-<!--
-**DocAtPrompt/DocAtPrompt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Family doctor by license, generalist by temperament.  
+Some duty, some freestyle, one heartbeat: **fatherhood**.  
+*medicine, music. making.*  
+Philosophy is the offbeat — thinking, background refresh.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For years I've been coding away quietly for myself — plenty of ideas,
+proofs of concept, books and papers consumed, new languages picked up
+just to see how they feel. But nothing ever really ripened in a way
+that felt satisfying.
+
+With vibe coding I can finally get some backup, and play my little flute
+in the open source orchestra. 🎶
