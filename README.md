@@ -2,7 +2,8 @@
 
 Family doctor by license, generalist by temperament.  
 Some duty, some freestyle, one heartbeat: **fatherhood**.  
-*medicine, music. making.*  Philosophy is the offbeat — thinking, background refresh.
+*medicine, music. making.* 
+Philosophy is the offbeat — thinking, background refresh.
 
 ---
 
